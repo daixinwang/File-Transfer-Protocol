@@ -1,0 +1,2 @@
+这是来自客户端的一个文件local.txt
+local

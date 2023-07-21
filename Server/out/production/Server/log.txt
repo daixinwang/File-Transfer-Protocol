@@ -1,0 +1,70 @@
+[2023-06-08 22:01:22] 2.0.0.1: Mike login successful.
+
+[2023-06-08 22:05:18] 2.0.0.1: Mike already logged in.
+
+[2023-06-08 22:06:40] 2.0.0.1: Invalid username or password.
+
+[2023-06-08 22:06:48] 2.0.0.1: Invalid username or password.
+
+[2023-06-08 22:08:33] 2.0.0.1: Invalid username or password.
+
+[2023-06-08 22:08:41] 2.0.0.1: Invalid username or password.
+
+[2023-06-08 22:08:48] 2.0.0.1: Invalid username or password.
+
+[2023-06-08 22:08:48] 2.0.0.1: Too many attempts, closing connection.
+
+[2023-06-08 22:09:43] 2.0.0.1: Invalid username or password.
+
+[2023-06-08 22:09:47] 2.0.0.1: Invalid username or password.
+
+[2023-06-08 22:09:50] 2.0.0.1: Invalid username or password.
+
+[2023-06-08 22:09:50] 2.0.0.1: Too many attempts, closing connection.
+
+[2023-06-08 22:11:12] 2.0.0.1: Mike login successful.
+
+[2023-06-08 22:14:23] 2.0.0.1: Mike list files in ServerSrc
+
+[2023-06-08 22:16:47] 2.0.0.1: Mike change directory to ServerSrc\1\555
+
+[2023-06-08 22:16:52] 2.0.0.1: Mike list files in ServerSrc\1\555
+
+[2023-06-08 22:16:56] 2.0.0.1: Mike change directory to ServerSrc\1
+
+[2023-06-08 22:16:58] 2.0.0.1: Mike list files in ServerSrc\1
+
+[2023-06-08 22:17:02] 2.0.0.1: Mike change directory to ServerSrc
+
+[2023-06-08 22:17:05] 2.0.0.1: Mike list files in ServerSrc
+
+[2023-06-08 22:17:16] 2.0.0.1: Mike change directory to ServerSrc\1\555
+
+[2023-06-08 22:17:19] 2.0.0.1: Mike change directory to ServerSrc\1
+
+[2023-06-08 22:17:23] 2.0.0.1: Mike change directory to ServerSrc
+
+[2023-06-08 22:17:28] 2.0.0.1: Mike change directory to ServerSrc
+
+[2023-06-08 22:17:30] 2.0.0.1: Mike list files in ServerSrc
+
+[2023-06-08 22:17:34] 2.0.0.1: Mike change directory to ServerSrc
+
+[2023-06-08 22:17:38] 2.0.0.1: Mike change directory to ServerSrc
+
+[2023-06-08 22:19:44] 2.0.0.1: Mike list files in ServerSrc
+
+[2023-06-08 22:20:00] 2.0.0.1: Mike download file ServerSrc\3.txt
+
+[2023-06-08 22:20:09] 2.0.0.1: Mike download file ServerSrc\3.txt
+
+[2023-06-08 22:23:24] 2.0.0.1: Mike list files in ServerSrc
+
+[2023-06-08 22:23:30] 2.0.0.1: Mike upload file ServerSrc\local.txt
+
+[2023-06-08 22:23:56] 2.0.0.1: Mike list files in ServerSrc
+
+[2023-06-08 22:25:17] 2.0.0.1: Mike exit.
+
+[2023-06-08 22:37:47] 2.0.0.1: Invalid username or password.
+
